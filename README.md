@@ -1,17 +1,17 @@
-# Tarea 1 - Front-End frameworks
-Tarea 1 - Componentes estáticos con React y Bootstrap 5.3
+# Tarea 2 - Front-End frameworks
+Tarea 2 - Ejercicio 2 - Aplicación React dinámica
 
 ### Evidencia [Diseño Final]:
-<img src="https://raw.githubusercontent.com/heltonsmith/tarea1/master/src/assets/img/evidencia1.jpg" />
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea2/main/src/assets/img/evidencia1.jpg" />
 
 ### Evidencia [Estructura]:
-<img src="https://raw.githubusercontent.com/heltonsmith/tarea1/master/src/assets/img/evidencia2.jpg" />
+<img src="https://raw.githubusercontent.com/heltonsmith/tarea2/main/src/assets/img/evidencia2.jpg" />
 
 ## Instrucciones:
 Para probar la aplicación sigue los siguientes pasos:
 
 ### 1) Clonar repo: 
-#### `git clone https://github.com/heltonsmith/tarea1.git`
+#### `git clone https://github.com/heltonsmith/tarea2.git`
 
 ### 2) Instalar dependencias: 
 #### `npm install`
